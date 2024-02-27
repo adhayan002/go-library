@@ -21,13 +21,13 @@ This is a simple RESTful API built with Go (Golang) and Gin framework to manage 
 
 1. Clone the repository:
 
-```bash
+```
 git clone <repository_url>
 ```
 
 2. Install dependencies:
 
-```bash
+```
 go mod tidy
 ```
 
@@ -39,7 +39,7 @@ go mod tidy
 
 4. Build and run the application:
 
-```bash
+```
 go run main.go
 ```
 
